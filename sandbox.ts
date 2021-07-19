@@ -43,3 +43,21 @@ obj1 = {
     address: "123 Main Street"
     // phoneNumber : 1385183031
 }
+
+let phone : number;
+let yourName : string;
+let object: {
+    question : string,
+    questionId : number,
+    answer : string
+}
+let mixArray : (string|number)[]
+let ageMix: string|number
+
+object = {
+    question: "What is your name?",
+    questionId: 1,
+    answer: "John"
+}
+
+

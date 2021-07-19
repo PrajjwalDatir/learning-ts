@@ -36,3 +36,13 @@ obj1 = {
     address: "123 Main Street"
     // phoneNumber : 1385183031
 };
+var phone;
+var yourName;
+var object;
+var mixArray;
+var ageMix;
+object = {
+    question: "What is your name?",
+    questionId: 1,
+    answer: "John"
+};
